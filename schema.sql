@@ -1,0 +1,2 @@
+-- Write SQL statements to create the products table.
+-- Include suitable columns, constraints, and at least one index.
